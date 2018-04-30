@@ -1,3 +1,6 @@
+git.txt
+/apps/*.bat
+/apps/*.apk
 # Built application files
 *.apk
 *.ap_
