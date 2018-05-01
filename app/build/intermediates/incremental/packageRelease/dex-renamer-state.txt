@@ -1,0 +1,4 @@
+#Mon Apr 30 18:33:47 CDT 2018
+base.0=E\:\\phonedev\\DopeWars-own\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\phonedev\\DopeWars-own\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

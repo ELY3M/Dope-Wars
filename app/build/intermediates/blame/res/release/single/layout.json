@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\phonedev\\DopeWars-own\\app\\build\\intermediates\\res\\merged\\release\\layout\\buyselldialog.xml",
+        "source": "E:\\phonedev\\DopeWars-own\\app\\src\\main\\res\\layout\\buyselldialog.xml"
+    },
+    {
+        "merged": "E:\\phonedev\\DopeWars-own\\app\\build\\intermediates\\res\\merged\\release\\layout\\number_picker.xml",
+        "source": "E:\\phonedev\\DopeWars-own\\app\\src\\main\\res\\layout\\number_picker.xml"
+    },
+    {
+        "merged": "E:\\phonedev\\DopeWars-own\\app\\build\\intermediates\\res\\merged\\release\\layout\\moneydialog.xml",
+        "source": "E:\\phonedev\\DopeWars-own\\app\\src\\main\\res\\layout\\moneydialog.xml"
+    },
+    {
+        "merged": "E:\\phonedev\\DopeWars-own\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\phonedev\\DopeWars-own\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\phonedev\\DopeWars-own\\app\\build\\intermediates\\res\\merged\\release\\layout\\jetlayout.xml",
+        "source": "E:\\phonedev\\DopeWars-own\\app\\src\\main\\res\\layout\\jetlayout.xml"
+    }
+]
